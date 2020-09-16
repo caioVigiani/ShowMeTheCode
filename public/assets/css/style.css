@@ -1,0 +1,48 @@
+footer, header {
+    color: #87a5c6;
+    background-color: #434242;
+}
+
+footer p {
+    font-size: 16px;
+    padding: .5rem 0 .5rem 0;
+    margin: 0;
+}
+
+header {
+    height: 15vh;
+}
+
+#headerTitle {
+    font-family: cursive;
+    font-size: 40px;
+    margin-top: 2rem;
+    background: -webkit-linear-gradient(#87a5c6, #ACBFBD);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#headerBtnLogin, #headerBtnCadastro {
+    margin-top: 3rem;
+}
+
+#headerBtnCadastro {
+    margin-right: 1rem;
+}
+
+.content {
+    margin: 2rem 0;
+}
+
+#table-resultado-fale-mais {
+    margin: .5rem auto 1.5rem;
+}
+
+#table-resultado-fale-mais td {
+    border: 1.5px solid black;
+}
+
+#table-resultado-fale-mais td {
+    min-width: 12rem;
+    text-align: center;
+}
